@@ -1,7 +1,8 @@
+=encoding utf8
 =head1 NAME
 wicked cool perl scripts is a nice book with hundreds of perl scripts.
 These scripts are cool and usefull.
-=head3 info
+=head2 info
  i did practice for this book .
  Just for fun.
 =cut
