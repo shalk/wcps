@@ -9,5 +9,5 @@ These scripts are cool and usefull.
 
  i did practice for this book .
  Just for fun.
- 
+ I'm too busy to do anything with perl. funky!  
 =cut
